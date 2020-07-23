@@ -1,3 +1,5 @@
+![DevCLokoja Header.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1595487648124/6FL6vSjjX.png)
+
 # 30DaysOfCode
 
 Improve your programming skills or get started in programming by learning and writing code for 30 days in a row and get rewarded for your efforts.
